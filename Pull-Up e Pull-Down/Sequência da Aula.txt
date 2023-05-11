@@ -1,0 +1,11 @@
+Sequência da Aula
+
+1. Explicação - Eletrônica Digital.
+2. Explicação - Niveis Lógicos.
+3. Explicação - Circuito Pull-Up e Pull-Down.
+4. Explicação - Como funciona um Botão.
+5. Montagem - Circuito Eletrônico Pull-Up e Pull-Down com LED (Sem Arduino)(Figura 1).
+6. Montagem - Verificando o Estado do Botão com Pull-Up e Pull-Down no Arduino. (Código 1) (Figura 2 e 3).
+7. Montagem - Ligando um LED com o Botao. (if/else)(Código 2)(Figura 4)(Pull-Up externo, pedir para inverter e ver o que acontece).
+8. Montagem - Invertendo o Estado do LED com um Botão (Código 3) (Figura 4) - Falar do Bounce
+9. Montagem - Um botão para ligar e outro botão para desligar (Código 4)(Figura 5).
