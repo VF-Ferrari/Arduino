@@ -1,0 +1,21 @@
+Sensor DHT11:
+Pino de dados (middle pin) do DHT11 conectado ao pino digital 7 do Arduino.
+
+Sensor MPU6050:
+Pino VCC do MPU6050 conectado ao pino 5V do Arduino.
+Pino GND do MPU6050 conectado ao pino GND do Arduino.
+Pino SDA do MPU6050 conectado ao pino A4 (SDA) do Arduino.
+Pino SCL do MPU6050 conectado ao pino A5 (SCL) do Arduino.
+
+Sensor BMP280:
+Pino VCC do BMP280 conectado ao pino 3.3V do Arduino.
+Pino GND do BMP280 conectado ao pino GND do Arduino.
+Pino SDA do BMP280 conectado ao pino A4 (SDA) do Arduino.
+Pino SCL do BMP280 conectado ao pino A5 (SCL) do Arduino.
+
+Módulo SD Card HW125:
+Pino CS (Chip Select) do módulo SD Card conectado ao pino digital 4 do Arduino.
+Pino MOSI (Master Out Slave In) do módulo SD Card conectado ao pino digital 11 do Arduino.
+Pino MISO (Master In Slave Out) do módulo SD Card conectado ao pino digital 12 do Arduino.
+Pino SCK (Serial Clock) do módulo SD Card conectado ao pino digital 13 do Arduino.
+Certifique-se de ter uma conexão adequada para o pino GND (GND do Arduino a GND do módulo SD Card) para estabelecer um nível de referência comum.
